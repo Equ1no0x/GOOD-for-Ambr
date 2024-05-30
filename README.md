@@ -2,7 +2,7 @@
 
 Python script that converts GOOD formated JSONs exported from different programs to GOOD formated JSON that Ambr is expecting.
 
-It only supports Materials for now.
+It only supports Genshin Impact materials for now.
 
 JSON exported from said programs are expected to contain at least of of the following item types:
 - Character Development Items
