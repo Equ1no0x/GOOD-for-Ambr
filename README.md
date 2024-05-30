@@ -15,6 +15,7 @@ JSON exported from said programs are expected to contain at least of of the foll
 3) Open **convertAmbr.py** on your text editor of preference
 4) Change **YOUR_FILE_NAME_HERE.json** to the filename of your resulted exported GOOD formatted JSON
 5) **Save** the file
+6) Move the file to the directory where you extracted **convertAmbr.py**
 
 ### Usage
 
